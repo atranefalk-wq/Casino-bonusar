@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Example Casino",
+    "url": "https://example.com",
+    "bonus_url": "https://example.com/bonus-villkor"
+  },
+  {
+    "name": "Another Casino",
+    "url": "https://another.com"
+  }
+]
