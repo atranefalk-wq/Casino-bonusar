@@ -1,61 +1,57 @@
 [
-  {
-   [https://www.codere.pa/](https://www.codere.pa/)
-[https://www.codere.pa/casino](https://www.codere.pa/casino)
-[https://www.betcha.pa/](https://www.betcha.pa/)
-[https://casino.pa.bet365.com/home](https://casino.pa.bet365.com/home)
-[https://www.bet365.com/](https://www.bet365.com/)
-[https://www.betano.com/](https://www.betano.com/)
-[https://lat.betano.com/sport/futbol/](https://lat.betano.com/sport/futbol/)
-[https://www.caliente.mx/](https://www.caliente.mx/)
-[https://tienda.betplay.com.co/](https://tienda.betplay.com.co/)
-[https://www.inkabet.pe/](https://www.inkabet.pe/)
-[https://www.rushbet.com/](https://www.rushbet.com/)
-[https://www.rivalo.com/](https://www.rivalo.com/)
-[https://www.sportingbet.com/](https://www.sportingbet.com/)
-[https://www.estrelabet.com/](https://www.estrelabet.com/)
-[https://www.betsul.com/](https://www.betsul.com/)
-[https://www.pixbet.com/](https://www.pixbet.com/)
-[https://www.supermatch.com.uy/](https://www.supermatch.com.uy/)
-[https://www.betsson.com/](https://www.betsson.com/)
-[https://www.betsafe.com/](https://www.betsafe.com/)
-[https://www.nordicbet.com/](https://www.nordicbet.com/)
-[https://www.comeon.com/](https://www.comeon.com/)
-[https://www.rizk.com/](https://www.rizk.com/)
-[https://www.leovegas.com/](https://www.leovegas.com/)
-[https://www.casumo.com/](https://www.casumo.com/)
-[https://www.mrgreen.com/](https://www.mrgreen.com/)
-[https://www.unibet.com/](https://www.unibet.com/)
-[https://www.888casino.com/](https://www.888casino.com/)
-[https://casino.betway.com/](https://casino.betway.com/)
-[https://casino.williamhill.com/](https://casino.williamhill.com/)
-[https://casino.coral.co.uk/](https://casino.coral.co.uk/)
-[https://casino.ladbrokes.com/](https://casino.ladbrokes.com/)
-[https://casino.paddypower.com/](https://casino.paddypower.com/)
-[https://casino.betfair.com/](https://casino.betfair.com/)
-[https://www.skyvegas.com/](https://www.skyvegas.com/)
-[https://www.virgingames.com/](https://www.virgingames.com/)
-[https://www.playojo.com/](https://www.playojo.com/)
-[https://www.grosvenorcasinos.com/](https://www.grosvenorcasinos.com/)
-[https://www.tombola.co.uk/](https://www.tombola.co.uk/)
-[https://www.buzzbingo.com/](https://www.buzzbingo.com/)
-[https://www.partycasino.com/](https://www.partycasino.com/)
-[https://www.galacasino.com/](https://www.galacasino.com/)
-[https://www.jackpotjoy.com/](https://www.jackpotjoy.com/)
-[https://www.bwin.com/](https://www.bwin.com/)
-[https://www.pokerstars.com/casino/](https://www.pokerstars.com/casino/)
-[https://www.ninjacasino.se/](https://www.ninjacasino.se/)
-[https://www.snabbare.com/](https://www.snabbare.com/)
-[https://www.betmgm.com/en/casino](https://www.betmgm.com/en/casino)
-[https://caesarspalaceonline.com/](https://caesarspalaceonline.com/)
-[https://casino.fanduel.com/](https://casino.fanduel.com/)
-[https://casino.draftkings.com/](https://casino.draftkings.com/)
-[https://www.hardrock.bet/](https://www.hardrock.bet/)
-[https://www.betrivers.com/](https://www.betrivers.com/)
-[https://www.playsugarhouse.com/](https://www.playsugarhouse.com/)
-[https://www.ballycasino.com/](https://www.ballycasino.com/)
-[https://www.goldennuggetcasino.com/](https://www.goldennuggetcasino.com/)
-
-    }
-  }
+  { "name": "Codere Panama", "url": "https://www.codere.pa/" },
+  { "name": "Codere Panama Casino", "url": "https://www.codere.pa/casino" },
+  { "name": "Betcha Panama", "url": "https://www.betcha.pa/" },
+  { "name": "Bet365 Panama Casino", "url": "https://casino.pa.bet365.com/home" },
+  { "name": "Bet365", "url": "https://www.bet365.com/" },
+  { "name": "Betano", "url": "https://www.betano.com/" },
+  { "name": "Betano LAT", "url": "https://lat.betano.com/sport/futbol/" },
+  { "name": "Caliente", "url": "https://www.caliente.mx/" },
+  { "name": "BetPlay Colombia", "url": "https://tienda.betplay.com.co/" },
+  { "name": "Inkabet Peru", "url": "https://www.inkabet.pe/" },
+  { "name": "RushBet", "url": "https://www.rushbet.com/" },
+  { "name": "Rivalo", "url": "https://www.rivalo.com/" },
+  { "name": "Sportingbet", "url": "https://www.sportingbet.com/" },
+  { "name": "EstrelaBet", "url": "https://www.estrelabet.com/" },
+  { "name": "Betsul", "url": "https://www.betsul.com/" },
+  { "name": "PixBet", "url": "https://www.pixbet.com/" },
+  { "name": "Supermatch Uruguay", "url": "https://www.supermatch.com.uy/" },
+  { "name": "Betsson", "url": "https://www.betsson.com/" },
+  { "name": "Betsafe", "url": "https://www.betsafe.com/" },
+  { "name": "NordicBet", "url": "https://www.nordicbet.com/" },
+  { "name": "ComeOn", "url": "https://www.comeon.com/" },
+  { "name": "Rizk", "url": "https://www.rizk.com/" },
+  { "name": "LeoVegas", "url": "https://www.leovegas.com/" },
+  { "name": "Casumo", "url": "https://www.casumo.com/" },
+  { "name": "Mr Green", "url": "https://www.mrgreen.com/" },
+  { "name": "Unibet", "url": "https://www.unibet.com/" },
+  { "name": "888casino", "url": "https://www.888casino.com/" },
+  { "name": "Betway Casino", "url": "https://casino.betway.com/" },
+  { "name": "William Hill Casino", "url": "https://casino.williamhill.com/" },
+  { "name": "Coral Casino", "url": "https://casino.coral.co.uk/" },
+  { "name": "Ladbrokes Casino", "url": "https://casino.ladbrokes.com/" },
+  { "name": "Paddy Power Casino", "url": "https://casino.paddypower.com/" },
+  { "name": "Betfair Casino", "url": "https://casino.betfair.com/" },
+  { "name": "Sky Vegas", "url": "https://www.skyvegas.com/" },
+  { "name": "Virgin Games", "url": "https://www.virgingames.com/" },
+  { "name": "PlayOJO", "url": "https://www.playojo.com/" },
+  { "name": "Grosvenor Casinos", "url": "https://www.grosvenorcasinos.com/" },
+  { "name": "Tombola", "url": "https://www.tombola.co.uk/" },
+  { "name": "Buzz Bingo", "url": "https://www.buzzbingo.com/" },
+  { "name": "PartyCasino", "url": "https://www.partycasino.com/" },
+  { "name": "Gala Casino", "url": "https://www.galacasino.com/" },
+  { "name": "Jackpotjoy", "url": "https://www.jackpotjoy.com/" },
+  { "name": "bwin", "url": "https://www.bwin.com/" },
+  { "name": "PokerStars Casino", "url": "https://www.pokerstars.com/casino/" },
+  { "name": "Ninja Casino", "url": "https://www.ninjacasino.se/" },
+  { "name": "Snabbare", "url": "https://www.snabbare.com/" },
+  { "name": "BetMGM Casino", "url": "https://www.betmgm.com/en/casino" },
+  { "name": "Caesars Palace Online", "url": "https://caesarspalaceonline.com/" },
+  { "name": "FanDuel Casino", "url": "https://casino.fanduel.com/" },
+  { "name": "DraftKings Casino", "url": "https://casino.draftkings.com/" },
+  { "name": "Hard Rock Bet", "url": "https://www.hardrock.bet/" },
+  { "name": "BetRivers", "url": "https://www.betrivers.com/" },
+  { "name": "PlaySugarHouse", "url": "https://www.playsugarhouse.com/" },
+  { "name": "Bally Casino", "url": "https://www.ballycasino.com/" },
+  { "name": "Golden Nugget Casino", "url": "https://www.goldennuggetcasino.com/" }
 ]
