@@ -2,6 +2,35 @@ import os
 import json
 from typing import Dict, Any, List
 
+from urllib.parse import urlparse
+
+def normalize_domain(url: str) -> str:
+    try:
+        u = urlparse(url.strip())
+        host = (u.netloc or "").lower()
+        if host.startswith("www."):
+            host = host[4:]
+        return host
+    except Exception:
+        return url.strip().lower()
+
+def dedupe_casino_list(casinos: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """
+    Dedupe baserat på domän. Behåller första förekomsten.
+    """
+    seen = set()
+    out = []
+    for c in casinos:
+        url = (c.get("url") or "").strip()
+        key = normalize_domain(url) or url.lower()
+        if not key:
+            continue
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(c)
+    return out
+
 from src.sources import fetch_text_with_adapter
 from src.parse_terms import (
     extract_first_bonus_percent,
