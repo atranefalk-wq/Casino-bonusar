@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Example Casino",
+    "url": "https://example.com",
+    "bonus_url": "https://example.com/bonus",
+    "extract": {
+      "mode": "selectors",
+      "selectors": ["main", "article", "body"]
+    }
+  }
+]
